@@ -27,6 +27,8 @@ scoreboard objectives setdisplay sidebar sidebar
 scoreboard players set Level sidebar 0
 scoreboard players set NextLevel sidebar 0
 scoreboard players set Total sidebar 0
-#スコアボードの初期化
-scoreboard players set @a level 0
-scoreboard players set @a xp 0
+#tablistの設定
+scoreboard objectives setdisplay list level
+
+#ツールの付与
+function seichi_main:give_item
