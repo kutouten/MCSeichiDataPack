@@ -1,1 +1,0 @@
-execute if score @p loadworld matches 0 run function util:loadworld
