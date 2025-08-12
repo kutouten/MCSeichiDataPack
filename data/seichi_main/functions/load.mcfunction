@@ -24,9 +24,9 @@ scoreboard players set #const_2220 temp 2220
 
 #サイドバー設定
 scoreboard objectives setdisplay sidebar sidebar
-scoreboard players set Level sidebar 0
-scoreboard players set NextLevel sidebar 0
-scoreboard players set Total sidebar 0
+# scoreboard players set Level sidebar 0
+# scoreboard players set NextLevel sidebar 0
+# scoreboard players set Total sidebar 0
 #tablistの設定
 scoreboard objectives setdisplay list level
 
