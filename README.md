@@ -1,4 +1,4 @@
-﻿# MCSeichiDataPack ver1.0.1
+﻿# MCSeichiDataPack ver1.0.2
 ## **ワールド生成が完了したら、必ず /reload を実行してください。**
 - Minecraft ver1.16.1用に作成しています。それ以外の不具合報告は受け付けていません。ご了承ください。
 
